@@ -1,0 +1,27 @@
+div{
+    border: 5px solid blue;
+    margin-bottom: 2rem;
+    background: lightblue;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.box1{
+    border-color: yellow;
+    background-color: pink;
+}
+.box2 p{
+    border: 2px solid red;
+    margin-top: 0;
+}
+p{
+    border: 2px solid blue;
+  
+}
+h1{
+ margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+a, strong, em{
+  border:2px solid black;
+}
